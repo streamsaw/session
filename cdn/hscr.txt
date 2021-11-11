@@ -1,0 +1,20 @@
+C1 - cric1  jd1=1540009400=dj1
+C1 - cric1  jd2=1540009217=dj2
+C1 - cric1  jd3=1540009220=dj3
+C1 - cric1  jd4=1540009226=dj4
+=======================================
+port1 - sp1=1540009419=ps1
+port1 - sp2=1540008978=ps2
+port1 - sp3=1540008978=ps3
+port1 - sp4=1540008978=ps4
+========================================    
+    
+    
+Apple TV : AppleTV/tvOS/9.1.1 
+Terabox: dubox;2.4.8;SM-N960F;android-android;11;JSbridge1.0.10;jointbridge;1.1.39
+SUA: Hotstar;in.startv.hotstar/12.1.9.1077 (Android/11) 
+AiO: Mozilla/5.0 (iPhone; CPU iPhone OS 14_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) dubox;2.4.8;SM-N960F;android-android;11;JSbridge1.0.10;jointbridge;1.1.39 
+====================
+Crom cloud img add : c_fill,h_563,w_332
+
+upload/c_fill,h_563,w_332/sources
