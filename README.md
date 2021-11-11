@@ -9,5 +9,7 @@
 4- Series - Getting series , encoding and sharing , securing. 
 
 5- Sports - everything ..
+-- Live sports (Hotstar) SonyLiv 
+-- Channels 
 
 ----------------------------------------------------------
