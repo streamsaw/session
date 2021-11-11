@@ -1,6 +1,6 @@
 // MOON -===-
 
-C1 - cric1  jd1=1540009400=dj1
+C1 - cric1  jd1=1540009400=dj1  // 03:30 match ind vs nz
 C1 - cric1  jd2=1540009217=dj2
 C1 - cric1  jd3=1540009220=dj3
 C1 - cric1  jd4=1540009226=dj4
