@@ -1,3 +1,5 @@
+// MOON -===-
+
 C1 - cric1  jd1=1540009400=dj1
 C1 - cric1  jd2=1540009217=dj2
 C1 - cric1  jd3=1540009220=dj3
@@ -8,7 +10,13 @@ port1 - sp2=1540008978=ps2
 port1 - sp3=1540008978=ps3
 port1 - sp4=1540008978=ps4
 ========================================    
-    
+
+-=== SON y ==--
+son y - url1  so1=https://www.sonyliv.com/sports/cricket-india-women-tour-of-australia-2021-1500002779=os1
+son y - url2  so2=https://www.sonyliv.com/sports/cricket-india-women-tour-of-australia-2021-1500002779=os2
+
+
+-=============-
     
 Apple TV : AppleTV/tvOS/9.1.1 
 Terabox: dubox;2.4.8;SM-N960F;android-android;11;JSbridge1.0.10;jointbridge;1.1.39
